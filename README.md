@@ -1,2 +1,2 @@
-# desafio_df_latam
+# desafio_ds_latam
 Desafio Data Science Latam
